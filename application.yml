@@ -1,0 +1,4 @@
+global:
+    params:
+        p1: 456
+        p2: 234
